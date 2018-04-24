@@ -4,6 +4,10 @@ LIDO(Lightweight IDentity Online) 1.0 is a strong authentication framework for i
 # LIDO 1.0 Architecture
 {image}
 
+# LIDO 1.0 URL Scheme
+* http:// ---> lido://
+* https:// ---> lidos://
+
 # LIDO 1.0 APIs
 * *getKeyid*
 * *genKey*
@@ -61,6 +65,29 @@ remove key
 { "returnCode" : 200 }
 
 </pre>
+
+# LIDO 1.0 Javascript Interface
+
+<pre>
+
+[lido.request]
+
+lido.request( reqeustJson );
+
+[lido.response]
+
+#callack
+function lidoResponse( responseJson ){
+   //code here
+}
+
+</pre>
+
+# [JWT(Json Web Token)](https://jwt.io)
+JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
+
+
+# [LIDO 1.0 CLIENT](https://play.google.com/store/apps/details?id=lido.client)
 
 
 # License
