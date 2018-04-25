@@ -8,6 +8,23 @@ LIDO(Lightweight IDentity Online) 1.0 is a strong authentication framework for o
 * http:// ---> lido://
 * https:// ---> lidos://
 
+# LIDO 1.0 Javascript Interface
+
+<pre>
+
+[lido.request]
+
+lido.request( reqeustJson );
+
+[lido.response]
+
+#callack
+function lidoResponse( responseJson ){
+   //code here
+}
+
+</pre>
+
 # LIDO 1.0 APIs
 * *getKeyid*
 * *genKey*
@@ -63,23 +80,6 @@ remove key
 
 [lido.response]
 { "returnCode" : 200 }
-
-</pre>
-
-# LIDO 1.0 Javascript Interface
-
-<pre>
-
-[lido.request]
-
-lido.request( reqeustJson );
-
-[lido.response]
-
-#callack
-function lidoResponse( responseJson ){
-   //code here
-}
 
 </pre>
 
