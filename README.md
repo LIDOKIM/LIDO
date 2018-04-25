@@ -7,6 +7,8 @@ LIDO(Lightweight IDentity Online) 1.0 is a strong authentication framework for o
 # LIDO 1.0 CLIENT
 Download: [**Android**](https://play.google.com/store/apps/details?id=lido.client)
 
+![LIDO_10_Client](LIDO_10_Client.png)
+
 # URL Scheme
 * http:// ---> lido://
 * https:// ---> lidos://
