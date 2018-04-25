@@ -1,5 +1,5 @@
 # LIDO 1.0 
-LIDO(Lightweight IDentity Online) 1.0 is a strong authentication framework for inline services and websites and reducethe problems associated with passwords.
+LIDO(Lightweight IDentity Online) 1.0 is a strong authentication framework for online services and websites and reduce the problems associated with passwords.
 
 # LIDO 1.0 Architecture
 ![LIDO 1.0 Architecture](LIDO_10_Architecture.png)
