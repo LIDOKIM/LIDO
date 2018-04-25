@@ -91,7 +91,10 @@ remove key
 # [JWT(Json Web Token)](https://jwt.io)
 JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
 
+
 # [LIDO Demo](https://github.com/LIDOKIM/LIDO-Demo)
+LIDO(Lightweight IDentity Online) sample web application
+
 
 # License
 Copyright 2018 LIDOKIM. All Rights Reserved.
